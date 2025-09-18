@@ -215,7 +215,8 @@ const CropPlanPage: React.FC<CropPlanPageProps> = ({
               </h2>
             </div>
             <p className="text-green-100 text-xl">
-              Your complete guide to successful {cropName.toLowerCase()} cultivation
+              Your complete guide to successful {cropName.toLowerCase()}{" "}
+              cultivation
             </p>
           </div>
 
